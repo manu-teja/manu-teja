@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Kalleda Manu Teja
 
-<!--
-**manu-teja/manu-teja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate | 💻 Java Backend Developer | 🚀 DevOps & Cloud Learner  
+🌟 Passionate about writing clean code and building real-time backend apps.
 
-Here are some ideas to get you started:
+## 💻 Skills:
+- Core Java, OOPs, Multithreading, Collections
+- Spring Boot (Learning Phase)
+- SQL, MySQL
+- Git & GitHub
+- Linux (Basics)
+- Python (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects:
+- 🧑‍🎓 **Student Management System** – Java + MySQL
+- 📦 **Inventory Tracker** – Java Console App + Database
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+- 📧 manu.teja@example.com
+
+> “Consistency, Code, Coffee – That’s how I learn.”
+
+
+
