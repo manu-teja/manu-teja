@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kalleda Manu Teja
+# 👋 Hello, I'm Kalleda Manuteja
 
 🎓 B.Tech Graduate | 💻 Java Backend Developer | 🚀 DevOps & Cloud Learner  
 🌟 Passionate about writing clean code and building real-time backend apps.
