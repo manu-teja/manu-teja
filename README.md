@@ -19,7 +19,7 @@
 - [LinkedIn](https://www.linkedin.com/in/manutejakalleda/)
 - 📧 [kalledamanuteja157@gmail.com](mailto:kalledamanuteja157@gmail.com)
 
-> “Consistency, Code, Coffee – That’s how I learn.”
+> “Consistency, Code  – That’s how I learn.”
 
 
 
