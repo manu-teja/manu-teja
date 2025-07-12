@@ -12,8 +12,8 @@
 - Python (Basics)
 
 ## 📈 Projects:
-- 🧑‍🎓 **Student Management System** – Java + MySQL
-- 📦 **Product Order Manager** – Java Console App + Database
+- 🧑‍🎓 **Student Management System** – Java + MySQL + Spring Boot
+- 📦 **Product Order Manager** – Java  + MySQL + Spring Boot
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/manutejakalleda/)
