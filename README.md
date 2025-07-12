@@ -13,7 +13,7 @@
 
 ## 📈 Projects:
 - 🧑‍🎓 **Student Management System** – Java + MySQL
-- 📦 **Inventory Tracker** – Java Console App + Database
+- 📦 **Product Order Manager** – Java Console App + Database
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/manutejakalleda/)
